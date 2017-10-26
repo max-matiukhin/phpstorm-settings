@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Square" type="JSX Harmony" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Square.js" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
